@@ -19,4 +19,4 @@ If you get stuck at any point please feel free to open new issues 🚀 we will b
 
 ---
 
-You can also reachout to [@tanmoysrt](https://github.com/tanmoysrt) at tanmoy@swiftwave.org for any query.
+You can reachout to [@tanmoysrt](https://github.com/tanmoysrt) at tanmoy@swiftwave.org for any query.
