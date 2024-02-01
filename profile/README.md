@@ -12,11 +12,5 @@
 
 ---
 
-We love to build ❤ our product in open source.
- - Please [Join us](https://slack.swiftwave.org/) such that we can make SwiftWave better.
-
-If you get stuck at any point please feel free to open new issues 🚀 we will be more than happy to help you.
-
----
-
-You can reachout to [@tanmoysrt](https://github.com/tanmoysrt) at tanmoy@swiftwave.org for any query.
+- You can reachout to [@tanmoysrt](https://github.com/tanmoysrt) at tanmoy@swiftwave.org for any query.
+- We love to build ❤ our product in open source. [Join us on Slack](https://slack.swiftwave.org/)
