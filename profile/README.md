@@ -1,16 +1,19 @@
-![SwiftWave is a self-hosted, lightweight PaaS solution designed to effortlessly deploy and manage your applications on any VPS 🚀. With SwiftWave, simplicity is key - just give it a command, and it takes care of the rest for you! 👀](https://github.com/swiftwave-org/swiftwave/assets/57363826/807a7622-37fd-4951-b177-50b538a45339)
 
-<br>
+![Swiftwave (1)](https://github.com/swiftwave-org/.github/assets/57363826/fb5c9110-5c36-49bc-8ff7-80b82c761b93)
+
+
 <div align="center">
-   <b>Checkout Official Website to Explore More</b>
-   <p>Visit <a href="https://swiftwave.org/">swiftwave.org</a></p>
+   <b>Checkout <a href="https://swiftwave.org/">swiftwave.org</a> to explore more</b>
 </div>
 
 ---
 
-[SwiftWave](https://swiftwave.org/) is a self-hosted, lightweight PaaS solution designed to effortlessly deploy and manage your applications on any VPS 🚀. With SwiftWave, simplicity is key - just give it a command, and it takes care of the rest for you! 👀
+SwiftWave is a self-hosted, lightweight PaaS solution for easily deploying and managing your applications on any VPS 🚀. It's an open-source alternative to Heroku, Netlify, and Render.
+
+You can install swiftwave in bare metal, Raspberry Pi, in any VPS(Hetzner, DigitalOcean, Linode, AWS, GCP etc.). Swiftwave and its dependencies are compatible with AMD64, ARM64 and ARMv7 architectures and compatible with Debian/Ubuntu/Raspbian OS/Fedora/CentOS/AlmaLinux/RockyLinux etc.
 
 ---
 
-- You can reachout to [@tanmoysrt](https://github.com/tanmoysrt) at tanmoy@swiftwave.org for any query.
-- We love to build ❤ our product in open source. [Join us on Slack](https://slack.swiftwave.org/)
+- We love to build ❤ our product in open source.
+- Please star ⭐ [swiftwave](https://github.com/swiftwave-org/swiftwave) in Github to support.
+- [Join the community on Slack](https://slack.swiftwave.org/) to ask any doubt.
