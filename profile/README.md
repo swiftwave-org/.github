@@ -16,4 +16,4 @@ You can install swiftwave in bare metal, Raspberry Pi, in any VPS(Hetzner, Digit
 
 - We love to build ❤ our product in open source.
 - Please star ⭐ [swiftwave](https://github.com/swiftwave-org/swiftwave) in Github to support.
-- [Join the community on Slack](https://slack.swiftwave.org/) to ask any doubt.
+- [Join the community on Discord](https://community.swiftwave.org) to ask any doubt.
